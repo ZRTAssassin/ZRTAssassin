@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ryan Warren.</h1>
 <h3 align="center">A passionate full-stack web and game developer from Oklahoma.</h3>
 
-- 🔭 I’m currently working on [Tabletop Character Builder.](https://github.com/ZRTAssassin/tabletop-character-builder)
+- 🔭 I’m currently working on [Tabletop Character Utilities.](https://github.com/ZRTAssassin/tabletop-character-builder)
 
-- 🌱 I’m currently learning **React and Test Driven Development**
+- 🌱 I’m currently learning **React and Blazor**
 
 - 📫 How to reach me: **ryanwarrendev@gmail.com**
 
