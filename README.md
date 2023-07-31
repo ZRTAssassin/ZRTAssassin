@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Tabletop Character Utilities.](https://github.com/ZRTAssassin/tabletop-character-builder)
 
-- 🌱 I’m currently learning **React and Blazor**
+- 🌱 I’m currently learning **Blazor and Netcode for Gameobjects (Unity Game Engine)**
 
 - 📫 How to reach me: **ryanwarrendev@gmail.com**
 
